@@ -80,7 +80,8 @@ You can then use the published badge for linting results.
 [![pylint](https://<USER/GROUP_NAME>.gitlab.io/<PROJECT_PATH>/badges/pylint.svg)](https://<USER/GROUP_NAME>.gitlab.io/<PROJECT_PATH>/lint/)
 ```
 
-For LittleWorld, image:
+## Bages for LittleWorld
+image:
 ```
 https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/raw/public/badges/lint-pylint-python.svg?job=lint-pylint-python
 ```
