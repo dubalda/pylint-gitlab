@@ -85,11 +85,11 @@ image:
 ```
 https://gitlab.com/%{project_path}/-/jobs/artifacts/%{default_branch}/raw/public/badges/pylint.svg?job=pylint
 or
-https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/raw/public/badges/lint-pylint-python.svg?job=lint-pylint-python
+https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/raw/public/badges/pylint.svg?job=pylint
 ```
 link:
 ```
 https://gitlab.com/%{project_path}/-/jobs/artifacts/%{default_branch}/file/public/lint/index.html?job=pylint
 or
-https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/file/public/lint/index.html?job=lint-pylint-python
+https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/file/public/lint/index.html?job=pylint
 ```
