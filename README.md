@@ -83,9 +83,13 @@ You can then use the published badge for linting results.
 ## Bages for LittleWorld
 image:
 ```
+https://gitlab.com/%{project_path}/-/jobs/artifacts/%{default_branch}/raw/public/badges/pylint.svg?job=pylint
+or
 https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/raw/public/badges/lint-pylint-python.svg?job=lint-pylint-python
 ```
 link:
 ```
+https://gitlab.com/%{project_path}/-/jobs/artifacts/%{default_branch}/file/public/lint/index.html?job=pylint
+or
 https://gitlab.com/littleworld1/littleworld/-/jobs/artifacts/main/file/public/lint/index.html?job=lint-pylint-python
 ```
